@@ -23,4 +23,4 @@
 
 ## Лицензия
 
-Её нет.
+Этот профиль лицензирован под [MIT License](https://github.com/TriteIT/triteit/LICENSE).
