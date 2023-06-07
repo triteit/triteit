@@ -14,7 +14,7 @@
 
 Вы можете связаться со мной по следующим каналам:
 
-- Email: [triteit365@gmail.com](mailto:widelix@gmail.com)
+- Email: [Widelix365@gmail.com](mailto:widelix365@gmail.com)
 - Twitter: [@TriteIT](https://twitter.com/@Widelix365)
 
 ## Благодарности
