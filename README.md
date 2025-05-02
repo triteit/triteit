@@ -6,7 +6,7 @@
 
 ## Навыки
 
-- Программирование: Python
+- Языки: Python, C++
 - Фреймворки: Disnake, Discord.py
 - Инструменты: VS Code, Pycharm
 
