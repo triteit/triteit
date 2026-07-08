@@ -6,9 +6,8 @@
 
 ## Навыки
 
-- Языки: Python, C++
-- Фреймворки: Disnake, Discord.py
-- Инструменты: VS Code, Pycharm
+- Языки: Python, JavaScript
+- Стеки: Vue.js, FastAPI
 
 ## Связь
 
