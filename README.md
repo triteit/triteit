@@ -14,8 +14,8 @@
 
 Вы можете связаться со мной по следующим каналам:
 
-- Email: [Widelix365@gmail.com](mailto:widelix365@gmail.com)
-- Twitter: [@TriteIT](https://twitter.com/@Widelix365)
+- Email: [ceo@civacel.io](mailto:ceo@civacel.io)
+- Telegram: [@triteit](https://triteit.t.me)
 
 ## Благодарности
 
